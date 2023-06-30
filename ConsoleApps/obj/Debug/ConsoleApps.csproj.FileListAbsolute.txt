@@ -1,0 +1,6 @@
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/bin/Debug/ConsoleApps.exe
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/bin/Debug/ConsoleApps.pdb
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/obj/Debug/ConsoleApps.csproj.AssemblyReference.cache
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/obj/Debug/ConsoleApps.csproj.CoreCompileInputs.cache
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/obj/Debug/ConsoleApps.exe
+/Users/jsoncmd/RiderProjects/ConsoleApps/ConsoleApps/obj/Debug/ConsoleApps.pdb
